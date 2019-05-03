@@ -1,0 +1,13 @@
+body {
+    margin: 0px;
+}
+
+#mandelbrot-screen {
+    /* background: black; */
+    position: absolute;
+}
+
+#ui {
+    /* background: green; */
+    position: absolute;
+}
