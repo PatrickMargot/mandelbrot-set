@@ -1,11 +1,19 @@
 # Mandelbrot Set
-Mandelbrot Set generator using HTML 5 Canvas and JavaScript.  
-Try it out on https://patrickmargot.github.io/mandelbrot-set/.
+A Mandelbrot Set generator.
+
+### Built With
+* JavaScript
+* HTML 5 Canvas
+
+## Demo
+Check the live demo here: https://patrickmargot.github.io/mandelbrot-set/
 
 ## Installation
-
-Clone project and open `index.html`
-
+1. Clone repository
+```sh
+git clone https://github.com/PatrickMargot/mandel-brot.git
+```
+2. Open index.html in your browser
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is [MIT Licensed](https://choosealicense.com/licenses/mit/).
